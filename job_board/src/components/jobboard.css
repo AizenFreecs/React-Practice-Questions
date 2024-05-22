@@ -1,0 +1,36 @@
+.jobboard{
+    padding: 10px;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 500px;
+    height: 500px;
+    overflow-y: scroll;
+    background-color: blanchedalmond;
+}
+
+.jobs{
+    margin-top: 10px;
+    padding: 15px;
+    width: 100%;
+    background-color:turquoise;
+    border-radius: 2rem;
+    box-shadow: 10px 5px 10px black;
+}
+.jobs p{
+    font-size: 12px;
+}
+
+.load-jobs{
+    padding: 5px;
+    height: 40px;
+    width: 120px;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px black;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
